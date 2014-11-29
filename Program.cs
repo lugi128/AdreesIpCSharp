@@ -1,7 +1,7 @@
 ﻿/*
  * IP/IFCONFIG custom 
  * Sadek Amrouche contact : ssk190399@me.com
- * Version 1.1 Version Final.
+ * Version 1.1 Final Version.
  * SNAPSHOT 14W48B
  */
 using System;
