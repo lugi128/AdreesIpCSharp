@@ -1,0 +1,6 @@
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.config
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.mdb
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/obj/Debug/AdressIPV2.exe
+/Volumes/SADEK/CFPT/Programmation/Csharp/Console/adressIPversion/AdressIPV2/AdressIPV2/obj/Debug/AdressIPV2.exe.mdb
