@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -30,6 +30,7 @@ namespace AdressIPV2
             OM.ForegroundColor(ConsoleColor.Green);
             OM.Write("Interfaces Number : ");
             OM.Write(ipHostEntry.AddressList.Length.ToString());
+            OM.WriteLine();
             OM.WriteLine();
             OM.Center(" Device Name : " + hostname + " -- " + DateTime.Now.ToString());
             OM.WriteLine();
