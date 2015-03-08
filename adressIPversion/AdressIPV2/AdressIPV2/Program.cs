@@ -20,7 +20,7 @@ namespace AdressIPV2
             int numipv6 = 1;
             string externalipv4;
             string externalipv6;
-            string error = "Connection Problem !"
+            string error = "Connection Problem !";
             try   { externalipv4 = new WebClient().DownloadString("http://icanhazip.com"); }
             catch { externalipv4 = error; }
             try   { externalipv6 = new WebClient().DownloadString("http://ipv6.icanhazip.com"); }
