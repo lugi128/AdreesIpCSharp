@@ -8,7 +8,7 @@ namespace AdressIPV2
 {
     static class Links
     {
-        public static string IPV4canhzip = @"http://icanhazip.com";
-        public static string IPV6canhaip = @"http://ipv6.icanhazip.com";
+        public static readonly string IPV4canhzip = @"http://icanhazip.com";
+        public static readonly string IPV6canhaip = @"http://ipv6.icanhazip.com";
     }
 }
