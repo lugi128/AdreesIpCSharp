@@ -21,9 +21,9 @@ namespace AdressIPV2
             string externalipv4;
             string externalipv6;
             string error = "Connection Problem !";
-            try   { externalipv4 = new WebClient().DownloadString("http://icanhazip.com"); }
+            try   { externalipv4 = new WebClient().DownloadString(Links.IPV4canhzip); }
             catch { externalipv4 = error; }
-            try   { externalipv6 = new WebClient().DownloadString("http://ipv6.icanhazip.com"); }
+            try   { externalipv6 = new WebClient().DownloadString(Links.IPV6canhaip); }
             catch { externalipv6 = error; }
             string hostname = ipHostEntry.HostName;
 #endregion
