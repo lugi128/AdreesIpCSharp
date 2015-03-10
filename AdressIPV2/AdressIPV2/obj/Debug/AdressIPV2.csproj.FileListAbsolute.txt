@@ -1,0 +1,31 @@
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe.config
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.exe
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.pdb
+E:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe.config
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.exe
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.pdb
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
+\\vmware-host\Shared Folders\Documents\Git\AdreesIpCSharp\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe.config
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.exe
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.pdb
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\mscorlib.dll
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\fr\mscorlib.resources.dll
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\normidna.nlp
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\normnfc.nlp
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\normnfd.nlp
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\normnfkc.nlp
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\normnfkd.nlp
+G:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.csprojResolveAssemblyReference.cache
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe.config
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.exe
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.pdb
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
+F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.csprojResolveAssemblyReference.cache
