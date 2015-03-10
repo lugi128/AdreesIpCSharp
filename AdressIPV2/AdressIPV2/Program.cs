@@ -1,3 +1,11 @@
+/*--------------------------------------------------------------------------------
+ * Sadek Amrouche (Computer Science Student)
+ * Version : Beta 0.90
+ * Snapshot : 13W11B
+ * Collaborate with : Christian Blanvillain (Teacher) Joel Von Der Weid (Student)
+ * CFTP Computer Science (Geneva)
+ *-------------------------------------------------------------------------------
+ */
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,7 +31,7 @@ namespace AdressIPV2
             string externalipv4;
             string externalipv6;
             string error = "Connection Problem !";
-            try   
+            try
             {
                 externalipv4 = new WebClient().DownloadString(Links.IPV4canhzip);
                 Debug.Print("IPV4 OK");
@@ -35,13 +43,13 @@ namespace AdressIPV2
                  OM.FileWrite("IPV4 Exeption : " + e.ToString());
                  OM.FileWriteLine();
             }
-            try 
-            { 
+            try
+            {
                 externalipv6 = new WebClient().DownloadString(Links.IPV6canhaip);
                 Debug.Print("IPV6 OK");
             }
             catch (Exception e)
-            { 
+            {
                 externalipv6 = error;
                 Debug.Print("IPV6 " + e.ToString());
                 OM.FileWrite("IPV6 Exeption : " + e.ToString());
@@ -49,7 +57,7 @@ namespace AdressIPV2
             }
             string hostname = ipHostEntry.HostName;
 #endregion
-#region Code  
+#region Code
             OM.ForegroundColor(ConsoleColor.Green);
             OM.Write("Interfaces Number : ");
             OM.Write(ipHostEntry.AddressList.Length.ToString());
@@ -76,7 +84,7 @@ namespace AdressIPV2
             OM.WriteLine();
             try { OM.SavingDialog(DateTime.Now.Hour + "-" + DateTime.Now.Minute + "-" + DateTime.Now.Second + "-" + DateTime.Now.ToShortDateString() + ".txt"); }
             catch (Exception e) { Debug.Print(e.ToString()); }
-            OM.AnyKeyContinue();            
+            OM.AnyKeyContinue();
         }
     }
 }
