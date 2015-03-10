@@ -1,3 +1,11 @@
+/*--------------------------------------------------------------------------------
+ * Sadek Amrouche (Computer Science Student)
+ * Version : Beta 0.90
+ * Snapshot : 13W11B
+ * Collaborate with : Christian Blanvillain (Teacher) Joel Von Der Weid (Student)
+ * CFTP Computer Science (Geneva)
+ *-------------------------------------------------------------------------------
+ */
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
