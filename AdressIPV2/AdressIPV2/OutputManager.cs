@@ -1,17 +1,9 @@
-/*--------------------------------------------------------------------------------
- * Sadek Amrouche (Computer Science Student)
- * Version : Beta 0.90
- * Snapshot : 13W11B
- * Collaborate with : Christian Blanvillain (Teacher) Joel Von Der Weid (Student)
- * CFTP Computer Science (Geneva)
- *-------------------------------------------------------------------------------
- */﻿
-using System;
+﻿using System;
 using System.Text;
 
 public class OutputManager
 {
-
+    
         const int BS = 512; // Buffer Size
         const int SCREEN_SIZE = 80; // Console Size
         string[] buffer = new string[BS];
@@ -33,7 +25,7 @@ public class OutputManager
         }
         public void Write(string texte)
         {
-            buffer[endBuffer] += texte; // Ajoute du contenu a la dernière ligne
+            buffer[endBuffer] += texte; // Ajoute du contenu a la dernière ligne  
             Console.Write(texte);
         }
         public void WriteLine() // Ajoute une ligne vide
@@ -59,7 +51,7 @@ public class OutputManager
                 response = Console.ReadLine();
                 if (response.ToUpper() == "Y")
                 {
-                    filename = defaultName;
+                    filename = defaultName; 
                     Console.WriteLine("Saving ...");
                     System.Threading.Thread.Sleep(2000);
                     Dump();
@@ -72,7 +64,7 @@ public class OutputManager
         {
             // Ouvrir un fichier Dump
             // Si buffer est plein
-
+            
             string directoryAdress = System.IO.Directory.GetCurrentDirectory().Replace("\\", "/") + "/" + filename;
             if (endBuffer < beginBuffer)
             {
@@ -86,10 +78,10 @@ public class OutputManager
             else  // Sinon on sort les elements dans l'ordre naturel
             {
                  System.IO.File.WriteAllLines(directoryAdress, buffer);
-
+                
             }
         }
-        public void ForegroundColor(ConsoleColor color) // change la couleur du texte
+        public void ForegroundColor(ConsoleColor color) // change la couleur du texte 
         {
             defaultColor = color;
             Console.ForegroundColor = color;
@@ -98,7 +90,7 @@ public class OutputManager
         {
             string spacing = Offset(texte);
             string output = spacing + texte + spacing;
-            buffer[endBuffer] += texte; // Ajoute du contenu a la dernière ligne
+            buffer[endBuffer] += texte; // Ajoute du contenu a la dernière ligne  
             Console.WriteLine(output.Substring(0, SCREEN_SIZE - 1), separator); // spacing peut avec un char de trop a cause de l'arrondi de la division par 2
         }
         public void Centera(string texte, char separator = ' ')
@@ -145,5 +137,7 @@ public class OutputManager
             endBuffer++;
             checkLimits();
         }
-
+        
     }
+
+

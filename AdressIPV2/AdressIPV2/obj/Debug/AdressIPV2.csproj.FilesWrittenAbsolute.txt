@@ -10,3 +10,9 @@
 /Users/Sadek/Documents/Git/AdreesIpCSharp/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.config
 /Users/Sadek/Documents/Git/AdreesIpCSharp/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.mdb
 /Users/Sadek/Documents/Git/AdreesIpCSharp/adressIPversion/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/obj/Debug/AdressIPV2.exe
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/obj/Debug/AdressIPV2.exe.mdb
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.config
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe.mdb
+/Users/Sadek/Documents/Git/AdreesIpCSharp/AdressIPV2/AdressIPV2/bin/Debug/AdressIPV2.exe
