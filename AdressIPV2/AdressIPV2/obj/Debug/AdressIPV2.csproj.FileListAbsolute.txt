@@ -29,3 +29,8 @@ F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\D
 F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
 F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
 F:\CFPT\Programmation\Csharp\Console\adressIPversion\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\CSHARP\AdreesIpCSharp\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe.config
+\\Mac\Home\Documents\Projects\CSHARP\AdreesIpCSharp\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.exe
+\\Mac\Home\Documents\Projects\CSHARP\AdreesIpCSharp\AdressIPV2\AdressIPV2\bin\Debug\AdressIPV2.pdb
+\\Mac\Home\Documents\Projects\CSHARP\AdreesIpCSharp\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.exe
+\\Mac\Home\Documents\Projects\CSHARP\AdreesIpCSharp\AdressIPV2\AdressIPV2\obj\Debug\AdressIPV2.pdb
