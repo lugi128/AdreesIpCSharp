@@ -1,13 +1,19 @@
+/*
+ * -- Author : Sadek Amrouche 
+ * -- Email : sadek@amrouche.ch
+ * -- Solution : AdressIPV2
+ * -- Project : AdressIP
+ * -- File Name : Program.cs 
+ * -- Version : 0.1 (16W05)
+ * -- Using (s) : 
+ *            --> System
+ *            --> System.Net
+ *            --> System.Diagnostics
+ * -- Description : This is the main of the program
+ */
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-using System.Threading;
 using System.Diagnostics;
-
+using System.Net;
 
 namespace AdressIPV2
 {
@@ -22,7 +28,9 @@ namespace AdressIPV2
             int numipv6 = 1;
             string externalipv4;
             string externalipv6;
+            string hostname;
             string error = "Connection Problem !";
+
             try   
             {
                 externalipv4 = new WebClient().DownloadString(Links.IPV4canhzip);
@@ -47,7 +55,7 @@ namespace AdressIPV2
                 OM.FileWrite("IPV6 Exeption : " + e.ToString());
                 OM.FileWriteLine();
             }
-            string hostname = ipHostEntry.HostName;
+            hostname = ipHostEntry.HostName;
 #endregion
 #region Code  
             OM.ForegroundColor(ConsoleColor.Green);

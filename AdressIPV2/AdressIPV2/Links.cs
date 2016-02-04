@@ -1,8 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * -- Author : Sadek Amrouche 
+ * -- Email : sadek@amrouche.ch
+ * -- Solution : AdressIPV2
+ * -- Project : AdressIP
+ * -- File Name : Links.cs 
+ * -- Version : 0.1 (16W05)
+ * -- Using (s) : 
+ *             <VOID>
+ * -- Description : List of addresses
+ */
 
 namespace AdressIPV2
 {

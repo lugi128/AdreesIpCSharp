@@ -1,5 +1,15 @@
-﻿using System;
-using System.Text;
+﻿/*
+ * -- Author : Sadek Amrouche 
+ * -- Email : sadek@amrouche.ch
+ * -- Solution : AdressIPV2
+ * -- Project : AdressIP
+ * -- File Name : OutputManager.cs 
+ * -- Version : 0.1 (16W05)
+ * -- Using (s) : 
+ *            --> System
+ * -- Description : Output in the file (text) with buffer and a lot more other little features 
+ */
+using System;
 
 public class OutputManager
 {
